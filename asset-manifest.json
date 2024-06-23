@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactlivedoctor/static/css/main.5c21a110.css",
+    "main.js": "/reactlivedoctor/static/js/main.016da104.js",
+    "static/js/453.0acc4af5.chunk.js": "/reactlivedoctor/static/js/453.0acc4af5.chunk.js",
+    "index.html": "/reactlivedoctor/index.html",
+    "main.5c21a110.css.map": "/reactlivedoctor/static/css/main.5c21a110.css.map",
+    "main.016da104.js.map": "/reactlivedoctor/static/js/main.016da104.js.map",
+    "453.0acc4af5.chunk.js.map": "/reactlivedoctor/static/js/453.0acc4af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c21a110.css",
+    "static/js/main.016da104.js"
+  ]
+}
